@@ -1,9 +1,17 @@
+/*font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+/* Components */
 @import "./hearder.css";
+@import "./buttons.css";
+
+/* Reset Css */
 *{
   margin: 0;
   padding: 0%;
   border: 0%;
   font-size: 100%;
-  font: inherit;
+  font-family: "Open Sans", sans-serif;
   vertical-align: baseline;
+  text-decoration: none;
 }
