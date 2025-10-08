@@ -4,6 +4,7 @@
 /* Components */
 @import "./hearder.css";
 @import "./buttons.css";
+@import "./main.css"
 
 /* Reset Css */
 *{
